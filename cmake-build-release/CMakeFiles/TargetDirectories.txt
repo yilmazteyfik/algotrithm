@@ -1,0 +1,3 @@
+/Users/teyfikyilmaz/CLionProjects/cmp2003/proje DATA MATA/son/cmake-build-release/CMakeFiles/son.dir
+/Users/teyfikyilmaz/CLionProjects/cmp2003/proje DATA MATA/son/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/teyfikyilmaz/CLionProjects/cmp2003/proje DATA MATA/son/cmake-build-release/CMakeFiles/rebuild_cache.dir
